@@ -1,2 +1,2 @@
 # catarina.png
-lcc stuff
+lcc stuff (no clue what I'm doing)
